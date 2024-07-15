@@ -1,5 +1,5 @@
 # habitat_resotration
-This repository contains the code for spatially explicit metapopulation models used in the manuscript "Habitat restoration in spatially explicit metacommunity models".
+This repository contains the code for spatially explicit metapopulation models used in the manuscript [Gawecka & Bascompte (2021) "Habitat restoration in spatially explicit metacommunity models"](https://doi.org/10.1111/1365-2656.13450).
 
 Each file is named afer the interaciton type (e.g. pairwise_mutualism) and the restoration method (e.g. random) simulated by the model coded in that file.
 
